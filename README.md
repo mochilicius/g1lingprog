@@ -74,7 +74,7 @@ O notebook está em `notebooks/` e já vem com os resultados. Para rodar de novo
 ## Links de entrega
 
 - GitHub: https://github.com/mochilicius/g1lingprog
-- GitHub Pages: https://mochilicius.github.io/g1lingprog/
+- GitHub Pages: https://code.mochilicius.com/g1lingprog/ (também abre por https://mochilicius.github.io/g1lingprog/)
 - Streamlit: _preencher após publicar_
 
 ## Fonte
